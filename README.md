@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaidenmerk
-- 👀 I’m interested in Sports, anime, weightlifting, programming,
-- 🌱 I’m currently learning Swift
+- 👀 I’m interested in Sports, anime, weightlifting, programming.
+- 🌱 I’m currently learning GO
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me merkbanter@gmail.com
 
