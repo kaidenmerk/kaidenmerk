@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @kaidenmerk
-- 👀 I’m interested in Sports, anime, weightlifting, programming.
-- 🌱 I’m currently learning GO
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me merkbanter@gmail.com
+
 
 <!---
 kaidenmerk/kaidenmerk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
